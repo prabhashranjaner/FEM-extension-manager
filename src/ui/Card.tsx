@@ -10,7 +10,7 @@ const StyledCard = styled.div`
   max-width: 500px;
 
   @media (min-width: 786px) {
-    max-width: 450px;
+    max-width: 400px;
   }
 `;
 
